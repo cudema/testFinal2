@@ -3,7 +3,7 @@
 
 const int FPS = 60;
 const int DELAY_TIME = 1000.0f / FPS;
-
+//test 1 2 3
 int main(int argc, char* argv[])
 {
   if (TheGame::Instance()->setup() ) 
